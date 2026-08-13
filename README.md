@@ -1,4 +1,4 @@
-# abiturkanon
+# Abiturkanon
 
 Analysis of the German school-leaving exam ("Abitur") reading canon: which literary texts are set for Abitur exams across Germany's 16 federal states, how that list has changed over time, and how it relates to each text's presence in the book market (editions and translations held by the German National Library, DNB).
 
