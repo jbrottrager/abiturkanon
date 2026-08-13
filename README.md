@@ -2,7 +2,7 @@
 
 Analysis of the German school-leaving exam ("Abitur") reading canon: which literary texts are set for Abitur exams across Germany's 16 federal states, how that list has changed over time, and how it relates to each text's presence in the book market (editions and translations held by the German National Library, DNB).
 
-The analytical framing borrows tools from metapopulation ecology — texts are treated as "species" that colonise and go extinct in different states over time — to study how texts enter, spread, and drop out of the canon, and how "sticky" (durable) that canon status is.
+The analytical framing borrows tools from ecological modelling---texts are treated as "species" that colonise and go extinct in different states over time---to study how texts enter, spread, and drop out of the canon, and how "sticky" (durable) that canon status is.
 
 ## Repository structure
 
@@ -29,6 +29,7 @@ abiturkanon/
 ## Analysis pipeline
 
 `code/DNB_SRU.ipynb` runs the search-retrieval logic for the titles in the DNB catalogue.
+
 `code/abiturkanonAnalyses.R` runs end to end and produces all files in `analyses/` and `img/`. Broadly, it:
 
 1. Cleans and merges the DNB catalogue and Abitur reading-list data.
