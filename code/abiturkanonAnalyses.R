@@ -52,7 +52,7 @@ theme_chr <- function(base_size = 13, base_family = "") {
 ## Settings / paths -----------------------------------------------------------#
 #------------------------------------------------------------------------------#
 
-setwd("C:\\Users\\Brottrager\\Documents\\GitHub\\abiturkanon")
+setwd("...\\abiturkanon")
 
 dnb <- read.csv(
   "data\\260727_dnb_results_manuallyFiltered.csv",
@@ -1076,7 +1076,7 @@ if (!is.null(cox_model_interaction)) {
   write.csv(interaction_coefficients, "analyses\\cox_model_interaction_coefficients.csv")
 }
 
-exp(confint(cox_model_main))
+exp(confint(cox_model_interaction))
 
 #------------------------------------------------------------------------------#
 ## Robustness check without final years ---------------------------------------#
