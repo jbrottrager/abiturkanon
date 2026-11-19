@@ -1,0 +1,122 @@
+"","textID","title","author_lastname","colon_opp","colon_succ","ext_opp","ext_succ","n_states_ever","years_present_total","colonisation_rate","extinction_rate"
+"1",147,"Heimsuchung","Erpenbeck",6,6,1,0,7,8,1,0
+"2",130,"Woyzeck","Büchner",46,9,24,9,7,27,0.195652173913043,0.375
+"3",209,"Das kunstseidene Mädchen","Keun",6,1,1,0,2,3,0.166666666666667,0
+"4",200,"Der Process","Kafka",26,3,16,4,4,17,0.115384615384615,0.25
+"5",188,"Der Sandmann","Hoffmann",58,5,12,6,4,13,0.0862068965517241,0.5
+"6",217,"Michael Kohlhaas","Kleist",27,2,8,3,3,8,0.0740740740740741,0.375
+"7",239,"Mario und der Zauberer","Mann",44,3,12,4,5,14,0.0681818181818182,0.333333333333333
+"8",160,"Faust I","Goethe",60,4,24,7,6,24,0.0666666666666667,0.291666666666667
+"9",116,"Die heilige Johanna der Schlachthöfe","Brecht",22,1,6,2,2,6,0.0454545454545455,0.333333333333333
+"10",291,"Corpus Delicti","Zeh",67,3,24,3,4,25,0.0447761194029851,0.125
+"11",187,"Der goldne Topf","Hoffmann",23,1,5,2,2,5,0.0434782608695652,0.4
+"12",270,"Der Trafikant","Seethaler",28,1,7,2,2,7,0.0357142857142857,0.285714285714286
+"13",204,"In der Strafkolonie","Kafka",71,2,13,2,3,14,0.028169014084507,0.153846153846154
+"14",263,"Kabale und Liebe","Schiller",36,1,6,3,3,6,0.0277777777777778,0.5
+"15",202,"Die Verwandlung","Kafka",40,1,16,4,4,16,0.025,0.25
+"16",216,"Die Marquise von O.","Kleist",54,1,9,2,3,10,0.0185185185185185,0.222222222222222
+"17",100,"Antigone","Anouilh",24,0,4,1,1,4,0,0.25
+"18",102,"Meine Emancipation","Aston",18,0,3,1,1,3,0,0.333333333333333
+"19",103,"Der gute Gott von Manhattan","Bachmann",6,0,1,1,1,1,0,1
+"20",105,"Nachts ist es leise in Teheran","Bazyar",18,0,3,1,1,3,0,0.333333333333333
+"21",106,"Jakob der Lügner","Becker",42,0,7,2,2,7,0,0.285714285714286
+"22",111,"Die verlorene Ehre der Katharina Blum","Böll",12,0,2,1,1,2,0,0.5
+"23",113,"Der Augsburger Kreidekreis","Brecht",18,0,3,1,1,3,0,0.333333333333333
+"24",114,"Der gute Mensch von Sezuan","Brecht",18,0,3,1,1,3,0,0.333333333333333
+"25",115,"Die Dreigroschenoper","Brecht",18,0,3,1,1,3,0,0.333333333333333
+"26",117,"Die unwürdige Greisin","Brecht",18,0,3,1,1,3,0,0.333333333333333
+"27",119,"Leben des Galilei","Brecht",30,0,5,1,1,5,0,0.2
+"28",122,"Schlechte Zeiten für Lyrik","Brecht",12,0,2,1,1,2,0,0.5
+"29",123,"Über die Bezeichnung Emigranten","Brecht",12,0,2,1,1,2,0,0.5
+"30",124,"Der Philister vor, in und nach der Geschichte","Brentano",6,0,1,1,1,1,0,1
+"31",126,"Dantons Tod","Büchner",11,0,3,2,2,3,0,0.666666666666667
+"32",127,"Der Hessische Landbote","Büchner",24,0,4,2,2,4,0,0.5
+"33",128,"Lenz","Büchner",30,0,5,1,1,5,0,0.2
+"34",129,"Leonce und Lena","Büchner",6,0,1,1,1,1,0,1
+"35",132,"Peter Schlemihls wundersame Geschichte","Chamisso",18,0,3,1,1,3,0,0.333333333333333
+"36",133,"Undine","de la Motte Fouqué",78,0,13,0,1,14,0,0
+"37",135,"Berlin Alexanderplatz","Döblin",24,0,4,2,2,4,0,0.5
+"38",137,"Ziehende Landschaft","Domin",12,0,2,1,1,2,0,0.5
+"39",138,"Die Judenbuche","Droste-Hülshoff",12,0,2,1,1,2,0,0.5
+"40",139,"Der Besuch der alten Dame","Dürrenmatt",78,0,13,0,1,14,0,0
+"41",140,"Die Physiker","Dürrenmatt",24,0,4,1,1,4,0,0.25
+"42",141,"Aus dem Leben eines Taugenichts","Eichendorff",36,0,6,2,2,6,0,0.333333333333333
+"43",142,"Das Marmorbild","Eichendorff",30,0,5,1,1,5,0,0.2
+"44",146,"Gehen, ging, gegangen","Erpenbeck",6,0,1,1,1,1,0,1
+"45",148,"Medea","Euripides",54,0,9,0,1,10,0,0
+"46",149,"Kleiner Mann - was nun?","Fallada",24,0,4,2,2,4,0,0.5
+"47",151,"Frau Jenny Treibel","Fontane",18,0,3,1,1,3,0,0.333333333333333
+"48",152,"Irrungen, Wirrungen","Fontane",12,0,2,2,2,2,0,1
+"49",154,"Homo faber","Frisch",12,0,2,1,1,2,0,0.5
+"50",155,"Unter der Drachenwand","Geiger",23,0,5,2,2,5,0,0.4
+"51",159,"Die Leiden des jungen Werthers","Goethe",12,0,2,1,1,2,0,0.5
+"52",161,"Faust II","Goethe",6,0,1,1,1,1,0,1
+"53",162,"Iphigenie auf Tauris","Goethe",23,0,5,3,3,5,0,0.6
+"54",163,"Italienische Reise","Goethe",6,0,1,1,1,1,0,1
+"55",166,"Römische Elegien","Goethe",6,0,1,1,1,1,0,1
+"56",171,"Katz und Maus","Grass",6,0,1,1,1,1,0,1
+"57",172,"Der Russe ist einer, der Birken liebt","Grjasnowa",18,0,3,1,1,3,0,0.333333333333333
+"58",176,"Bahnwärter Thiel","Hauptmann",18,0,3,2,2,3,0,0.666666666666667
+"59",179,"Maria Magdalena","Hebbel",12,0,2,1,1,2,0,0.5
+"60",180,"In seiner frühen Kindheit ein Garten","Hein",60,0,10,1,2,11,0,0.1
+"61",181,"Landnahme","Hein",54,0,9,0,1,10,0,0
+"62",182,"Deutschland. Ein Wintermärchen","Heine",30,0,5,2,2,5,0,0.4
+"63",183,"Räuberhände","Heinrich",12,0,2,1,1,2,0,0.5
+"64",184,"Sommerhaus, später","Hermann",6,0,1,1,1,1,0,1
+"65",185,"Der Steppenwolf","Hesse",24,0,4,1,1,4,0,0.25
+"66",186,"Die Berliner Antigone","Hochhuth",24,0,4,1,1,4,0,0.25
+"67",190,"Brief des Lord Chandos","Hofmannsthal",22,0,6,2,2,6,0,0.333333333333333
+"68",192,"Der ewige Spießer","Horváth",6,0,1,1,1,1,0,1
+"69",196,"Ingrid Babendererde. Reifeprüfung 1953","Johnson",6,0,1,1,1,1,0,1
+"70",197,"In Stahlgewittern","Jünger",6,0,1,1,1,1,0,1
+"71",198,"Das Schloss","Kafka",18,0,3,1,1,3,0,0.333333333333333
+"72",199,"Das Urteil","Kafka",6,0,1,1,1,1,0,1
+"73",201,"Der Verschollene","Kafka",18,0,3,2,2,3,0,0.666666666666667
+"74",203,"Erstes Leid","Kafka",6,0,1,1,1,1,0,1
+"75",205,"Von morgens bis mitternachts","Kaiser",18,0,3,1,1,3,0,0.333333333333333
+"76",206,"Emigranten-Monolog","Kaléko",12,0,2,1,1,2,0,0.5
+"77",207,"Fabian. Die Geschichte eines Moralisten","Kästner",6,0,1,1,1,1,0,1
+"78",208,"Abendstimmung in Scheveningen","Keun",12,0,2,1,1,2,0,0.5
+"79",215,"Der zerbrochne Krug","Kleist",12,0,2,1,7,9,0,0.5
+"80",220,"Prinz Friedrich von Homburg","Kleist",35,0,7,2,2,7,0,0.285714285714286
+"81",222,"Tauben im Gras","Koeppen",18,0,3,1,1,3,0,0.333333333333333
+"82",224,"Faserland","Kracht",6,0,1,1,1,1,0,1
+"83",226,"Man frage nicht","Kraus",12,0,2,1,1,2,0,0.5
+"84",227,"Hikikomori","Kuhn",18,0,3,1,1,3,0,0.333333333333333
+"85",228,"Das Haus in der Dorotheenstraße","Lange",18,0,3,1,1,3,0,0.333333333333333
+"86",229,"Mein blaues Klavier","Lasker-Schüler",6,0,1,1,1,1,0,1
+"87",232,"Emilia Galotti","Lessing",24,0,4,1,2,5,0,0.25
+"88",233,"Miss Sara Sampson","Lessing",12,0,2,0,1,3,0,0
+"89",234,"Nathan der Weise","Lessing",24,0,4,2,2,4,0,0.5
+"90",235,"Bekenntnisse des Hochstaplers Felix Krull","Mann",6,0,1,1,1,1,0,1
+"91",236,"Bruder Hitler","Mann",6,0,1,1,1,1,0,1
+"92",237,"Buddenbrooks","Mann",12,0,2,1,1,2,0,0.5
+"93",238,"Der Untertan","Mann",11,0,3,2,2,3,0,0.666666666666667
+"94",245,"Appell an den Geist","Mühsam",6,0,1,1,1,1,0,1
+"95",246,"Tauben fliegen auf","Nadj Abonji",18,0,3,1,1,3,0,0.333333333333333
+"96",248,"Blüthenstaub","Novalis",6,0,1,1,1,1,0,1
+"97",253,"Im Westen Nichts Neues","Remarque",6,0,1,1,1,1,0,1
+"98",256,"Hiob","Roth",18,0,3,1,1,3,0,0.333333333333333
+"99",257,"Brief an den Prinzen friedrich Christian II","Schiller",6,0,1,1,1,1,0,1
+"100",258,"Der Verbrecher aus verlorener Ehre","Schiller",12,0,2,1,1,2,0,0.5
+"101",259,"Die Horen","Schiller",6,0,1,1,1,1,0,1
+"102",260,"Die Jungfrau von Orleans","Schiller",36,0,6,1,1,6,0,0.166666666666667
+"103",264,"Maria Stuart","Schiller",77,0,14,1,2,15,0,0.0714285714285714
+"104",265,"Über die ästhetische Erziehung der Menschen in einer Reihe von Briefen","Schiller",6,0,1,1,1,1,0,1
+"105",267,"Verbrechen","Schirach",12,0,2,1,1,2,0,0.5
+"106",271,"Transit","Seghers",12,0,2,1,1,2,0,0.5
+"107",272,"Hamlet","Shakespeare",60,0,10,1,1,10,0,0.1
+"108",273,"Antigone","Sophokles",24,0,4,1,1,4,0,0.25
+"109",274,"König Ödipus","Sophokles",12,0,2,1,1,2,0,0.5
+"110",275,"Agnes","Stamm",12,0,2,1,1,2,0,0.5
+"111",276,"Herkunft","Stanišic",18,0,3,1,1,3,0,0.333333333333333
+"112",277,"Vor dem Fest","Stanišic",12,0,2,1,1,2,0,0.5
+"113",278,"Das Parfum","Süskind",36,0,6,1,1,6,0,0.166666666666667
+"114",280,"Halbschatten","Timm",18,0,3,1,1,3,0,0.333333333333333
+"115",281,"Masse-Mensch","Toller",18,0,3,1,1,3,0,0.333333333333333
+"116",283,"Der Verlorene","Treichel",6,0,1,1,1,1,0,1
+"117",288,"Im Kreise gelausen","Weiss",12,0,2,1,1,2,0,0.5
+"118",290,"Medea. Stimmen","Wolf",72,0,12,1,2,13,0,0.0833333333333333
+"119",210,"Nach Mitternacht","Keun",0,0,0,0,1,1,NA,NA
+"120",221,"Über das Marionettentheater","Kleist",0,0,0,0,1,1,NA,NA
+"121",255,"…liner Roma…","Ringelnatz",0,0,0,0,1,1,NA,NA

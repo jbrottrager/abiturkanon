@@ -1,13 +1,13 @@
 "","author_lastname","author_firstname","total_states","n_titles","n_years"
 "1","Kafka","Franz",72,7,21
-"2","Büchner","Georg",71,5,21
+"2","BÃ¼chner","Georg",71,5,21
 "3","Goethe","Johann Wolfgang",70,12,21
 "4","Schiller","Friedrich",61,9,21
 "5","Kleist","Heinrich",56,10,14
 "6","Brecht","Bertolt",40,12,18
 "7","Mann","Thomas",34,6,16
 "8","Zeh","Juli",34,1,14
-"9","Dürrenmatt","Friedrich",33,2,21
+"9","DÃ¼rrenmatt","Friedrich",33,2,21
 "10","Hoffmann","E.T.A.",27,3,16
 "11","Hein","Christoph",23,2,13
 "12","Eichendorff","Joseph",22,5,15
@@ -16,11 +16,11 @@
 "15","Fontane","Theodor",18,4,15
 "16","Wolf","Christa",18,1,18
 "17","Shakespeare","William",14,1,14
-"18","de la Motte Fouqué","Friedrich",14,1,14
+"18","de la Motte FouquÃ©","Friedrich",14,1,14
 "19","Sophokles","",13,2,10
 "20","Becker","Jurek",11,1,11
 "21","Euripides","",10,1,10
-"22","Grass","Günter",10,3,7
+"22","Grass","GÃ¼nter",10,3,7
 "23","Hauptmann","Gerhart",10,3,9
 "24","Hesse","Hermann",9,1,9
 "25","Hochhuth","Rolf",9,1,9
@@ -30,10 +30,10 @@
 "29","Roth","Joseph",7,1,7
 "30","Seethaler","Robert",7,1,5
 "31","Heine","Heinrich",6,1,6
-"32","Süskind","Patrick",6,1,6
+"32","SÃ¼skind","Patrick",6,1,6
 "33","Geiger","Arno",5,1,4
-"34","Stanišic","Saša",5,2,5
-"35","Döblin","Alfred",4,1,4
+"34","StaniÅ¡ic","SaÅ¡a",5,2,5
+"35","DÃ¶blin","Alfred",4,1,4
 "36","Fallada","Hans",4,1,4
 "37","Frisch","Max",4,1,4
 "38","Koeppen","Wolfgang",4,1,4
@@ -43,11 +43,11 @@
 "42","Bazyar","Shida",3,1,3
 "43","Benn","Gottfried",3,2,2
 "44","Brentano","Clemens",3,2,3
-"45","Böll","Heinrich",3,2,3
+"45","BÃ¶ll","Heinrich",3,2,3
 "46","Chamisso","Adelbert",3,1,3
 "47","Domin","Hilde",3,2,3
 "48","Grjasnowa","Olga",3,1,3
-"49","Horváth","Ödön",3,2,3
+"49","HorvÃ¡th","Ã–dÃ¶n",3,2,3
 "50","Kaiser","Georg",3,1,3
 "51","Kracht","Christian",3,1,3
 "52","Kraus","Karl",3,2,3
@@ -61,12 +61,12 @@
 "60","Toller","Ernst",3,1,3
 "61","Weiss","Peter",3,2,3
 "62","Barbusse","Henri",2,1,2
-"63","Droste-Hülshoff","Annette",2,1,2
+"63","Droste-HÃ¼lshoff","Annette",2,1,2
 "64","Goering","Reinhard",2,1,2
 "65","Hebbel","Friedrich",2,1,2
 "66","Heinrich","Finn-Ole",2,1,2
-"67","Kaléko","Mascha",2,1,2
-"68","Köppen","Edlef",2,1,2
+"67","KalÃ©ko","Mascha",2,1,2
+"68","KÃ¶ppen","Edlef",2,1,2
 "69","Potente","Franka",2,1,2
 "70","Regener","Sven",2,1,2
 "71","Rilke","Rainer Maria",2,1,2
@@ -81,20 +81,20 @@
 "80","Celan","Paul",1,1,1
 "81","Delius","Friedrich Christian",1,1,1
 "82","Gstrein","Norbert",1,1,1
-"83","Günderrode","Karoline",1,1,1
+"83","GÃ¼nderrode","Karoline",1,1,1
 "84","Harig","Ludwig",1,1,1
 "85","Hermann","Judith",1,1,1
-"86","Hölderlin","Friedrich",1,1,1
-"87","Hübner/Nemitz","Lutz/Sarah",1,1,1
+"86","HÃ¶lderlin","Friedrich",1,1,1
+"87","HÃ¼bner/Nemitz","Lutz/Sarah",1,1,1
 "88","Ibsen","Henrik",1,1,1
 "89","Johnson","Uwe",1,1,1
-"90","Jünger","Ernst",1,1,1
+"90","JÃ¼nger","Ernst",1,1,1
 "91","Kirsch","Sarah",1,1,1
-"92","Kästner","Erich",1,1,1
-"93","Lasker-Schüler","Else",1,1,1
+"92","KÃ¤stner","Erich",1,1,1
+"93","Lasker-SchÃ¼ler","Else",1,1,1
 "94","Mann","Klaus",1,1,1
-"95","Mörike","Eduard",1,1,1
-"96","Mühsam","Erich",1,1,1
+"95","MÃ¶rike","Eduard",1,1,1
+"96","MÃ¼hsam","Erich",1,1,1
 "97","Nizon","Paul",1,1,1
 "98","Novalis","",1,1,1
 "99","Opitz","Martin",1,1,1

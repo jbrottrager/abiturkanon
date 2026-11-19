@@ -1,25 +1,25 @@
 "","textID","title","author_lastname","author_firstname","pub_year_clean","gender","total_states","n_years","first_year_listed","last_year_listed"
-"1",130,"Woyzeck","Büchner","Georg",1836,"m",49,18,2006,2026
+"1",130,"Woyzeck","BÃ¼chner","Georg",1836,"m",49,18,2006,2026
 "2",160,"Faust I","Goethe","Johann Wolfgang",1808,"m",40,21,2006,2026
 "3",291,"Corpus Delicti","Zeh","Juli",2009,"f",34,14,2013,2026
 "4",264,"Maria Stuart","Schiller","Friedrich",1800,"m",31,19,2008,2026
 "5",202,"Die Verwandlung","Kafka","Franz",1915,"m",28,15,2006,2021
-"6",139,"Der Besuch der alten Dame","Dürrenmatt","Friedrich",1956,"m",19,19,2007,2026
+"6",139,"Der Besuch der alten Dame","DÃ¼rrenmatt","Friedrich",1956,"m",19,19,2007,2026
 "7",188,"Der Sandmann","Hoffmann","E.T.A.",1816,"m",18,16,2006,2026
 "8",215,"Der zerbrochne Krug","Kleist","Heinrich",1811,"m",18,3,2015,2026
 "9",290,"Medea. Stimmen","Wolf","Christa",1996,"f",18,18,2007,2026
 "10",147,"Heimsuchung","Erpenbeck","Jenny",2008,"f",17,2,2025,2026
 "11",200,"Der Process","Kafka","Franz",1925,"m",17,7,2013,2026
 "12",239,"Mario und der Zauberer","Mann","Thomas",1929,"m",16,10,2006,2026
-"13",133,"Undine","de la Motte Fouqué","Friedrich",1811,"m",14,14,2013,2026
-"14",140,"Die Physiker","Dürrenmatt","Friedrich",1962,"m",14,11,2006,2016
+"13",133,"Undine","de la Motte FouquÃ©","Friedrich",1811,"m",14,14,2013,2026
+"14",140,"Die Physiker","DÃ¼rrenmatt","Friedrich",1962,"m",14,11,2006,2016
 "15",204,"In der Strafkolonie","Kafka","Franz",1919,"m",14,13,2014,2026
 "16",272,"Hamlet","Shakespeare","William",1623,"m",14,14,2009,2022
 "17",119,"Leben des Galilei","Brecht","Bertolt",1943,"m",13,12,2006,2025
-"18",180,"In seiner frühen Kindheit ein Garten","Hein","Christoph",2005,"m",13,13,2011,2026
+"18",180,"In seiner frÃ¼hen Kindheit ein Garten","Hein","Christoph",2005,"m",13,13,2011,2026
 "19",216,"Die Marquise von O.","Kleist","Heinrich",1808,"m",12,12,2007,2026
 "20",217,"Michael Kohlhaas","Kleist","Heinrich",1810,"m",12,8,2007,2026
-"21",106,"Jakob der Lügner","Becker","Jurek",1969,"m",11,11,2009,2020
+"21",106,"Jakob der LÃ¼gner","Becker","Jurek",1969,"m",11,11,2009,2020
 "22",162,"Iphigenie auf Tauris","Goethe","Johann Wolfgang",1779,"m",11,9,2006,2022
 "23",263,"Kabale und Liebe","Schiller","Friedrich",1784,"m",11,10,2007,2026
 "24",273,"Antigone","Sophokles","",0,"m",11,10,2006,2016
@@ -27,7 +27,7 @@
 "26",148,"Medea","Euripides","",0,"m",10,10,2017,2026
 "27",181,"Landnahme","Hein","Christoph",2004,"m",10,10,2017,2026
 "28",234,"Nathan der Weise","Lessing","Gotthold Ephraim",1779,"m",10,6,2015,2023
-"29",128,"Lenz","Büchner","Georg",1839,"m",9,9,2007,2018
+"29",128,"Lenz","BÃ¼chner","Georg",1839,"m",9,9,2007,2018
 "30",185,"Der Steppenwolf","Hesse","Hermann",1927,"m",9,9,2007,2022
 "31",186,"Die Berliner Antigone","Hochhuth","Rolf",1980,"m",9,9,2007,2016
 "32",141,"Aus dem Leben eines Taugenichts","Eichendorff","Joseph",1826,"m",8,8,2010,2021
@@ -35,100 +35,100 @@
 "34",220,"Prinz Friedrich von Homburg","Kleist","Heinrich",1821,"m",8,7,2009,2018
 "35",100,"Antigone","Anouilh","Jean",1946,"m",7,7,2010,2016
 "36",150,"Effi Briest","Fontane","Theodor",1895,"m",7,6,2006,2026
-"37",176,"Bahnwärter Thiel","Hauptmann","Gerhart",1888,"m",7,7,2006,2026
+"37",176,"BahnwÃ¤rter Thiel","Hauptmann","Gerhart",1888,"m",7,7,2006,2026
 "38",232,"Emilia Galotti","Lessing","Gotthold Ephraim",1772,"m",7,7,2007,2026
 "39",237,"Buddenbrooks","Mann","Thomas",1901,"m",7,6,2007,2014
 "40",256,"Hiob","Roth","Joseph",1930,"m",7,7,2006,2026
 "41",270,"Der Trafikant","Seethaler","Robert",2012,"m",7,5,2021,2025
-"42",116,"Die heilige Johanna der Schlachthöfe","Brecht","Bertolt",1931,"m",6,4,2016,2019
-"43",126,"Dantons Tod","Büchner","Georg",1835,"m",6,5,2008,2018
+"42",116,"Die heilige Johanna der SchlachthÃ¶fe","Brecht","Bertolt",1931,"m",6,4,2016,2019
+"43",126,"Dantons Tod","BÃ¼chner","Georg",1835,"m",6,5,2008,2018
 "44",152,"Irrungen, Wirrungen","Fontane","Theodor",1888,"m",6,6,2009,2018
-"45",170,"Im Krebsgang","Grass","Günter",2002,"m",6,6,2006,2012
-"46",182,"Deutschland. Ein Wintermärchen","Heine","Heinrich",1844,"m",6,6,2006,2023
+"45",170,"Im Krebsgang","Grass","GÃ¼nter",2002,"m",6,6,2006,2012
+"46",182,"Deutschland. Ein WintermÃ¤rchen","Heine","Heinrich",1844,"m",6,6,2006,2023
 "47",201,"Der Verschollene","Kafka","Franz",1927,"m",6,6,2015,2026
 "48",260,"Die Jungfrau von Orleans","Schiller","Friedrich",1801,"m",6,6,2013,2018
 "49",262,"Don Karlos: Infant von Spanien","Schiller","Friedrich",1787,"m",6,5,2006,2012
-"50",278,"Das Parfum","Süskind","Patrick",1985,"m",6,6,2013,2018
+"50",278,"Das Parfum","SÃ¼skind","Patrick",1985,"m",6,6,2013,2018
 "51",155,"Unter der Drachenwand","Geiger","Arno",2018,"m",5,4,2022,2025
-"52",157,"Das Göttliche","Goethe","Johann Wolfgang",1785,"m",5,5,2006,2026
+"52",157,"Das GÃ¶ttliche","Goethe","Johann Wolfgang",1785,"m",5,5,2006,2026
 "53",159,"Die Leiden des jungen Werthers","Goethe","Johann Wolfgang",1774,"m",5,5,2006,2014
 "54",187,"Der goldne Topf","Hoffmann","E.T.A.",1814,"m",5,4,2019,2022
-"55",127,"Der Hessische Landbote","Büchner","Georg",1834,"m",4,4,2021,2025
-"56",135,"Berlin Alexanderplatz","Döblin","Alfred",1929,"m",4,4,2014,2020
+"55",127,"Der Hessische Landbote","BÃ¼chner","Georg",1834,"m",4,4,2021,2025
+"56",135,"Berlin Alexanderplatz","DÃ¶blin","Alfred",1929,"m",4,4,2014,2020
 "57",149,"Kleiner Mann - was nun?","Fallada","Hans",1932,"m",4,4,2014,2020
 "58",154,"Homo faber","Frisch","Max",1957,"m",4,4,2007,2018
 "59",189,"Klein Zaches genannt Zinnober","Hoffmann","E.T.A.",1819,"m",4,2,2015,2016
-"60",209,"Das kunstseidene Mädchen","Keun","Irmgard",1931,"f",4,3,2006,2026
+"60",209,"Das kunstseidene MÃ¤dchen","Keun","Irmgard",1931,"f",4,3,2006,2026
 "61",222,"Tauben im Gras","Koeppen","Wolfgang",1951,"m",4,4,2009,2015
 "62",235,"Bekenntnisse des Hochstaplers Felix Krull","Mann","Thomas",1922,"m",4,4,2008,2023
-"63",243,"Tonio Kröger","Mann","Thomas",1903,"m",4,4,2009,2012
+"63",243,"Tonio KrÃ¶ger","Mann","Thomas",1903,"m",4,4,2009,2012
 "64",102,"Meine Emancipation","Aston","Louise",1846,"f",3,3,2021,2023
 "65",105,"Nachts ist es leise in Teheran","Bazyar","Shida",2016,"f",3,3,2023,2025
 "66",113,"Der Augsburger Kreidekreis","Brecht","Bertolt",1948,"m",3,3,2017,2019
 "67",114,"Der gute Mensch von Sezuan","Brecht","Bertolt",1943,"m",3,3,2017,2019
 "68",115,"Die Dreigroschenoper","Brecht","Bertolt",1928,"m",3,3,2017,2019
-"69",117,"Die unwürdige Greisin","Brecht","Bertolt",1949,"m",3,3,2017,2019
-"70",122,"Schlechte Zeiten für Lyrik","Brecht","Bertolt",1939,"m",3,3,2007,2014
-"71",129,"Leonce und Lena","Büchner","Georg",1836,"m",3,3,2009,2024
+"69",117,"Die unwÃ¼rdige Greisin","Brecht","Bertolt",1949,"m",3,3,2017,2019
+"70",122,"Schlechte Zeiten fÃ¼r Lyrik","Brecht","Bertolt",1939,"m",3,3,2007,2014
+"71",129,"Leonce und Lena","BÃ¼chner","Georg",1836,"m",3,3,2009,2024
 "72",132,"Peter Schlemihls wundersame Geschichte","Chamisso","Adelbert",1813,"m",3,3,2015,2017
 "73",151,"Frau Jenny Treibel","Fontane","Theodor",1892,"m",3,3,2014,2016
-"74",171,"Katz und Maus","Grass","Günter",1961,"m",3,2,2006,2022
+"74",171,"Katz und Maus","Grass","GÃ¼nter",1961,"m",3,2,2006,2022
 "75",172,"Der Russe ist einer, der Birken liebt","Grjasnowa","Olga",2012,"f",3,3,2023,2025
 "76",198,"Das Schloss","Kafka","Franz",1926,"m",3,3,2014,2016
 "77",199,"Das Urteil","Kafka","Franz",1913,"m",3,3,2011,2013
 "78",205,"Von morgens bis mitternachts","Kaiser","Georg",2011,"m",3,3,2014,2016
 "79",224,"Faserland","Kracht","Christian",1995,"m",3,3,2010,2013
 "80",227,"Hikikomori","Kuhn","Kevin",2012,"m",3,3,2020,2022
-"81",228,"Das Haus in der Dorotheenstraße","Lange","Hartmut",2013,"m",3,3,2019,2021
+"81",228,"Das Haus in der DorotheenstraÃŸe","Lange","Hartmut",2013,"m",3,3,2019,2021
 "82",233,"Miss Sara Sampson","Lessing","Gotthold Ephraim",1755,"m",3,3,2024,2026
 "83",238,"Der Untertan","Mann","Heinrich",1914,"m",3,2,2023,2024
 "84",246,"Tauben fliegen auf","Nadj Abonji","Melinda",2010,"f",3,3,2023,2025
 "85",253,"Im Westen Nichts Neues","Remarque","Erich Maria",1928,"m",3,3,2008,2016
-"86",276,"Herkunft","Stanišic","Saša",2019,"m",3,3,2023,2025
+"86",276,"Herkunft","StaniÅ¡ic","SaÅ¡a",2019,"m",3,3,2023,2025
 "87",279,"Der blonde Eckbert","Tieck","Ludwig",1797,"m",3,3,2010,2012
 "88",280,"Halbschatten","Timm","Uwe",2008,"m",3,3,2016,2018
 "89",281,"Masse-Mensch","Toller","Ernst",1920,"m",3,3,2014,2016
 "90",104,"Das Feuer","Barbusse","Henri",1916,"m",2,2,2008,2009
 "91",107,"Ein Wort","Benn","Gottfried",1941,"m",2,2,2006,2007
-"92",111,"Die verlorene Ehre der Katharina Blum","Böll","Heinrich",1974,"m",2,2,2017,2018
-"93",123,"Über die Bezeichnung Emigranten","Brecht","Bertolt",1937,"m",2,2,2013,2014
+"92",111,"Die verlorene Ehre der Katharina Blum","BÃ¶ll","Heinrich",1974,"m",2,2,2017,2018
+"93",123,"Ãœber die Bezeichnung Emigranten","Brecht","Bertolt",1937,"m",2,2,2013,2014
 "94",125,"Der Spinnerin Nachtlied","Brentano","Clemens",1802,"m",2,2,2009,2012
 "95",137,"Ziehende Landschaft","Domin","Hilde",1955,"f",2,2,2013,2014
-"96",138,"Die Judenbuche","Droste-Hülshoff","Annette",1842,"f",2,2,2017,2018
-"97",143,"Das Schloss Dürande","Eichendorff","Joseph",1837,"m",2,1,2022,2022
-"98",153,"Mathilde Möhring","Fontane","Theodor",1906,"m",2,2,2006,2007
+"96",138,"Die Judenbuche","Droste-HÃ¼lshoff","Annette",1842,"f",2,2,2017,2018
+"97",143,"Das Schloss DÃ¼rande","Eichendorff","Joseph",1837,"m",2,1,2022,2022
+"98",153,"Mathilde MÃ¶hring","Fontane","Theodor",1906,"m",2,2,2006,2007
 "99",156,"Seeschlacht","Goering","Reinhard",1918,"m",2,2,2008,2009
-"100",166,"Römische Elegien","Goethe","Johann Wolfgang",1795,"m",2,2,2012,2021
+"100",166,"RÃ¶mische Elegien","Goethe","Johann Wolfgang",1795,"m",2,2,2012,2021
 "101",177,"Die Ratten","Hauptmann","Gerhart",1911,"m",2,2,2009,2010
 "102",179,"Maria Magdalena","Hebbel","Friedrich",1844,"m",2,2,2019,2020
-"103",183,"Räuberhände","Heinrich","Finn-Ole",2007,"m",2,2,2013,2014
-"104",193,"Geschichten aus dem Wiener Wald. Volksstück in drei Teilen","Horváth","Ödön",1931,"m",2,2,2009,2010
-"105",206,"Emigranten-Monolog","Kaléko","Mascha",1945,"f",2,2,2013,2014
+"103",183,"RÃ¤uberhÃ¤nde","Heinrich","Finn-Ole",2007,"m",2,2,2013,2014
+"104",193,"Geschichten aus dem Wiener Wald. VolksstÃ¼ck in drei Teilen","HorvÃ¡th","Ã–dÃ¶n",1931,"m",2,2,2009,2010
+"105",206,"Emigranten-Monolog","KalÃ©ko","Mascha",1945,"f",2,2,2013,2014
 "106",208,"Abendstimmung in Scheveningen","Keun","Irmgard",1940,"f",2,2,2013,2014
-"107",223,"Heeresbericht","Köppen","Edlef",1930,"m",2,2,2008,2009
+"107",223,"Heeresbericht","KÃ¶ppen","Edlef",1930,"m",2,2,2008,2009
 "108",226,"Man frage nicht","Kraus","Karl",1933,"m",2,2,2013,2014
 "109",231,"Die Soldaten","Lenz","Jakob Michael Reinhold",1776,"m",2,2,2008,2010
 "110",242,"Tod in Venedig","Mann","Thomas",1912,"m",2,1,2006,2006
 "111",250,"Zehn","Potente","Franka",2010,"f",2,2,2024,2026
 "112",251,"Herr Lehmann","Regener","Sven",2001,"m",2,2,2010,2011
-"113",254,"Ich fürchte mich so vor der Menschen Wort","Rilke","Rainer Maria",1899,"m",2,2,2006,2007
+"113",254,"Ich fÃ¼rchte mich so vor der Menschen Wort","Rilke","Rainer Maria",1899,"m",2,2,2006,2007
 "114",258,"Der Verbrecher aus verlorener Ehre","Schiller","Friedrich",1786,"m",2,2,2017,2018
-"115",261,"Die Räuber","Schiller","Friedrich",1781,"m",2,2,2011,2012
+"115",261,"Die RÃ¤uber","Schiller","Friedrich",1781,"m",2,2,2011,2012
 "116",266,"Terror","Schirach","Ferdinand",2015,"m",2,2,2022,2023
 "117",267,"Verbrechen","Schirach","Ferdinand",2009,"m",2,2,2017,2018
 "118",268,"Der Vorleser","Schlink","Bernhard",1995,"m",2,1,2006,2006
 "119",269,"Lenz","Schneider","Peter",1973,"m",2,2,2009,2010
 "120",271,"Transit","Seghers","Anna",1944,"f",2,2,2021,2022
-"121",274,"König Ödipus","Sophokles","",0,"m",2,2,2015,2016
+"121",274,"KÃ¶nig Ã–dipus","Sophokles","",0,"m",2,2,2015,2016
 "122",275,"Agnes","Stamm","Peter",1998,"m",2,2,2017,2018
-"123",277,"Vor dem Fest","Stanišic","Saša",2014,"m",2,2,2019,2020
+"123",277,"Vor dem Fest","StaniÅ¡ic","SaÅ¡a",2014,"m",2,2,2019,2020
 "124",288,"Im Kreise gelausen","Weiss","Peter",1985,"m",2,2,2013,2014
 "125",292,"Schachnovelle","Zweig","Stefan",1942,"m",2,2,2007,2009
 "126",101,"Lass rauschen, Lieb, lass rauschen","Arnim","Achim",1806,"m",1,1,2009,2009
 "127",103,"Der gute Gott von Manhattan","Bachmann","Ingeborg",1957,"f",1,1,2021,2021
-"128",108,"Nachtcafé","Benn","Gottfried",1912,"m",1,1,2007,2007
+"128",108,"NachtcafÃ©","Benn","Gottfried",1912,"m",1,1,2007,2007
 "129",109,"Heldenplatz","Bernhard","Thomas",1988,"m",1,1,2006,2006
-"130",110,"Ansichten eines Clowns","Böll","Heinrich",1963,"m",1,1,2009,2009
+"130",110,"Ansichten eines Clowns","BÃ¶ll","Heinrich",1963,"m",1,1,2009,2009
 "131",112,"An die Nachgeborenen","Brecht","Bertolt",1939,"m",1,1,2007,2007
 "132",118,"Entdeckung an einer jungen Frau","Brecht","Bertolt",1925,"m",1,1,2012,2012
 "133",120,"Lob des Lernens","Brecht","Bertolt",1932,"m",1,1,2011,2011
@@ -138,7 +138,7 @@
 "137",134,"Der Sonntag, an dem ich Weltmeister wurde","Delius","Friedrich Christian",1994,"m",1,1,2010,2010
 "138",136,"Linguistik","Domin","Hilde",1962,"f",1,1,2006,2006
 "139",144,"Mondnacht","Eichendorff","Joseph",1837,"m",1,1,2009,2009
-"140",145,"Wünschelrute","Eichendorff","Joseph",1835,"m",1,1,2009,2009
+"140",145,"WÃ¼nschelrute","Eichendorff","Joseph",1835,"m",1,1,2009,2009
 "141",146,"Gehen, ging, gegangen","Erpenbeck","Jenny",2015,"f",1,1,2019,2019
 "142",158,"Der Zauberlehrling","Goethe","Johann Wolfgang",1797,"m",1,1,2011,2011
 "143",161,"Faust II","Goethe","Johann Wolfgang",1832,"m",1,1,2015,2015
@@ -147,48 +147,48 @@
 "146",165,"Prometheus","Goethe","Johann Wolfgang",1785,"m",1,1,2006,2006
 "147",167,"Von deutscher Baukunst","Goethe","Johann Wolfgang",1772,"m",1,1,2010,2010
 "148",168,"Willkommen und Abschied","Goethe","Johann Wolfgang",1775,"m",1,1,2010,2010
-"149",169,"Die Blechtrommel","Grass","Günter",1959,"m",1,1,2006,2006
+"149",169,"Die Blechtrommel","Grass","GÃ¼nter",1959,"m",1,1,2006,2006
 "150",173,"Einer","Gstrein","Norbert",1988,"m",1,1,2010,2010
-"151",174,"Ein apokalyptisches Fragment","Günderrode","Karoline",1780,"f",1,1,2009,2009
+"151",174,"Ein apokalyptisches Fragment","GÃ¼nderrode","Karoline",1780,"f",1,1,2009,2009
 "152",175,"Weh dem, der aus der Reihe tanzt","Harig","Ludwig",1990,"m",1,1,2021,2021
 "153",178,"Vor Sonnenaufgang","Hauptmann","Gerhart",1889,"m",1,1,2009,2009
-"154",184,"Sommerhaus, später","Hermann","Judith",1998,"f",1,1,2019,2019
-"155",191,"Hälfte des Lebens","Hölderlin","Friedrich",1804,"m",1,1,2006,2006
-"156",192,"Der ewige Spießer","Horváth","Ödön",1930,"m",1,1,2025,2025
-"157",194,"Furor. Theater der Gegenwart","Hübner/Nemitz","Lutz/Sarah",2018,"f",1,1,2026,2026
+"154",184,"Sommerhaus, spÃ¤ter","Hermann","Judith",1998,"f",1,1,2020,2020
+"155",191,"HÃ¤lfte des Lebens","HÃ¶lderlin","Friedrich",1804,"m",1,1,2006,2006
+"156",192,"Der ewige SpieÃŸer","HorvÃ¡th","Ã–dÃ¶n",1930,"m",1,1,2025,2025
+"157",194,"Furor. Theater der Gegenwart","HÃ¼bner/Nemitz","Lutz/Sarah",2018,"f",1,1,2026,2026
 "158",195,"Ein Volksfeind","Ibsen","Henrik",1882,"m",1,1,2011,2011
-"159",196,"Ingrid Babendererde. Reifeprüfung 1953","Johnson","Uwe",1985,"m",1,1,2017,2017
-"160",197,"In Stahlgewittern","Jünger","Ernst",1920,"m",1,1,2016,2016
+"159",196,"Ingrid Babendererde. ReifeprÃ¼fung 1953","Johnson","Uwe",1985,"m",1,1,2017,2017
+"160",197,"In Stahlgewittern","JÃ¼nger","Ernst",1920,"m",1,1,2016,2016
 "161",203,"Erstes Leid","Kafka","Franz",1922,"m",1,1,2014,2014
-"162",207,"Fabian. Die Geschichte eines Moralisten","Kästner","Erich",1931,"m",1,1,2020,2020
+"162",207,"Fabian. Die Geschichte eines Moralisten","KÃ¤stner","Erich",1931,"m",1,1,2020,2020
 "163",210,"Nach Mitternacht","Keun","Irmgard",1937,"f",1,1,2026,2026
-"164",211,"Bei den weißen Stiefmütterchen","Kirsch","Sarah",1967,"f",1,1,2012,2012
-"165",212,"Anekdote aus dem letzten preußischen Kriege","Kleist","Heinrich",1810,"m",1,1,2011,2011
+"164",211,"Bei den weiÃŸen StiefmÃ¼tterchen","Kirsch","Sarah",1967,"f",1,1,2012,2012
+"165",212,"Anekdote aus dem letzten preuÃŸischen Kriege","Kleist","Heinrich",1810,"m",1,1,2011,2011
 "166",213,"Das Erdbeben in Chili","Kleist","Heinrich",1807,"m",1,1,2011,2011
 "167",214,"Der Findling","Kleist","Heinrich",1811,"m",1,1,2012,2012
 "168",218,"Mutterliebe","Kleist","Heinrich",1811,"m",1,1,2011,2011
 "169",219,"Penthesilea","Kleist","Heinrich",1808,"m",1,1,2009,2009
-"170",221,"Über das Marionettentheater","Kleist","Heinrich",1810,"m",1,1,2026,2026
+"170",221,"Ãœber das Marionettentheater","Kleist","Heinrich",1810,"m",1,1,2026,2026
 "171",225,"Die letzten Tage der Menschheit","Kraus","Karl",1918,"m",1,1,2009,2009
-"172",229,"Mein blaues Klavier","Lasker-Schüler","Else",1943,"f",1,1,2014,2014
+"172",229,"Mein blaues Klavier","Lasker-SchÃ¼ler","Else",1943,"f",1,1,2014,2014
 "173",230,"Der Hofmeister","Lenz","Jakob Michael Reinhold",1774,"m",1,1,2010,2010
 "174",236,"Bruder Hitler","Mann","Thomas",1939,"m",1,1,2023,2023
 "175",240,"Mephisto","Mann","Klaus",1936,"m",1,1,2006,2006
 "176",241,"Professor Unrat","Mann","Heinrich",1905,"m",1,1,2008,2008
-"177",244,"Früh im Wagen","Mörike","Eduard",1846,"m",1,1,2009,2009
-"178",245,"Appell an den Geist","Mühsam","Erich",1911,"m",1,1,2023,2023
+"177",244,"FrÃ¼h im Wagen","MÃ¶rike","Eduard",1846,"m",1,1,2009,2009
+"178",245,"Appell an den Geist","MÃ¼hsam","Erich",1911,"m",1,1,2023,2023
 "179",247,"Das Jahr der Liebe","Nizon","Paul",1981,"m",1,1,2011,2011
-"180",248,"Blüthenstaub","Novalis","",1798,"m",1,1,2022,2022
-"181",249,"Ach Liebste / laß uns eilen","Opitz","Martin",1624,"m",1,1,2012,2012
+"180",248,"BlÃ¼thenstaub","Novalis","",1798,"m",1,1,2022,2022
+"181",249,"Ach Liebste / laÃŸ uns eilen","Opitz","Martin",1624,"m",1,1,2012,2012
 "182",252,"Franziska Linkerhand","Reimann","Brigitte",1974,"f",1,1,2009,2009
-"183",255,"…liner Roma…","Ringelnatz","Joachim",1924,"m",1,1,2026,2026
+"183",255,"â€¦liner Romaâ€¦","Ringelnatz","Joachim",1924,"m",1,1,2026,2026
 "184",257,"Brief an den Prinzen friedrich Christian II","Schiller","Friedrich",1795,"m",1,1,2021,2021
 "185",259,"Die Horen","Schiller","Friedrich",1794,"m",1,1,2021,2021
-"186",265,"Über die ästhetische Erziehung der Menschen in einer Reihe von Briefen","Schiller","Friedrich",1795,"m",1,1,2021,2021
+"186",265,"Ãœber die Ã¤sthetische Erziehung der Menschen in einer Reihe von Briefen","Schiller","Friedrich",1795,"m",1,1,2021,2021
 "187",282,"Kaspar Hauser Lied","Trakl","Georg",1913,"m",1,1,2007,2007
 "188",283,"Der Verlorene","Treichel","Hans-Ulrich",1998,"m",1,1,2021,2021
 "189",284,"Das Muschelessen","Vanderbeke","Birgit",1990,"f",1,1,2010,2010
 "190",285,"Under der linden","von der Vogelweide","Walther",1200,"m",1,1,2012,2012
-"191",286,"Die Kindermörderin","Wagner","Heinrich Leopold",1776,"m",1,1,2008,2008
+"191",286,"Die KindermÃ¶rderin","Wagner","Heinrich Leopold",1776,"m",1,1,2008,2008
 "192",287,"Abschied von den Eltern","Weiss","Peter",1961,"m",1,1,2010,2010
 "193",289,"Top Dogs","Widmer","Urs",1997,"m",1,1,2006,2006
